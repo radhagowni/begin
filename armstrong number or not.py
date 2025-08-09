@@ -5,8 +5,8 @@ length=len(str(n))
 for i in range(length):
     digit=int(num%10)
     num=num/10
-    sum=sum+digit**length#pow(digit,length)
+    sum=sum+digit**length  #pow(digit,length)
 if sum==n:
-    print('It is an armstrong number')
+    print(n,' is an armstrong number')
 else:
-    print('not an armstrong number')
+    print(n,' not an armstrong number')
