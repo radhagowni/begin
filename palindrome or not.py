@@ -14,4 +14,4 @@ reverse=int(str(n)[::-1])
 if n==reverse:
     print(n,' is palindrome')
 else:
-    print('not a palindrome')
+    print(n,' not a palindrome')
