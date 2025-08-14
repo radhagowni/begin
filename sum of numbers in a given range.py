@@ -1,4 +1,4 @@
-print('first method:')
+print('First method:')
 a=int(input('enter a value:'))
 b=int(input('enter value:'))
 sum=0
