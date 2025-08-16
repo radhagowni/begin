@@ -9,6 +9,6 @@ for n in range(low,high+1):
         temp=n//10
         sum=sum+pow(digit,order)
     if sum==n:
-        print('armstrong numbers are:')
+        print('Armstrong numbers are:')
         print(n,end='  ')
     
