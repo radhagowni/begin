@@ -5,7 +5,7 @@ for i in range(2,n):
         flag=1
         break
 if flag==1:
-    print(n,'is not prime')
+    print(n,' is not prime')
 else:
     print(n,' is prime')
     
