@@ -1,3 +1,4 @@
+#this program is to print the armstrong numbers in the given range
 low=int(input())
 high=int(input())
 for n in range(low,high+1):
