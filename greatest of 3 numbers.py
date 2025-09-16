@@ -1,3 +1,4 @@
+#this program is to find the greatest numbers among 3 numbers
 print('Enter 3 numbers:')
 num1=int(input())
 num2=int(input())
