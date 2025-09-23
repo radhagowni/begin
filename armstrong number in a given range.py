@@ -4,7 +4,7 @@ high=int(input())
 for n in range(low,high+1):
     temp=n
     order=len(str(n))
-    sum=0
+    sum=0  
     while temp >0:
         digit=temp%10
         temp=n//10
