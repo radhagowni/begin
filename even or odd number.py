@@ -1,3 +1,4 @@
+# if any number is divisible by 2 then it is even
 num=int(input('Enter num:'))
 if (num%2==0):
     print(num,' even number')
