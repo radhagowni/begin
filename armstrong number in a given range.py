@@ -1,5 +1,5 @@
 #this program is to print the armstrong numbers in the given range
-low=int(input())
+low=int(input()) #this indicates starting range
 high=int(input())
 for n in range(low,high+1):
     temp=n
