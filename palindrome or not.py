@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input("Enter number:"))
 temp=n
 reverse=0
 while temp>0:  
