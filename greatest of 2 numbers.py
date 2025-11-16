@@ -1,3 +1,4 @@
+# greatest number among 2 numbers
 num1=int(input('enter number:'))
 num2=int(input('enter number:'))
 if num1>num2:
