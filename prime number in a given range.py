@@ -9,8 +9,8 @@ def checkprime(num):
                 return 0
         return 1
 print('Enter lower and upper ranges:')
-a=int(input())
-b=int(input())
+a=int(input("Enter lower range:"))
+b=int(input("Enter upper range:"))
 for i in range(a,b):
     if checkprime(i):
         print(i,end=' ')
