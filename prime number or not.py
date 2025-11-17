@@ -1,3 +1,4 @@
+# to check whether the number is a prime or not
 n=int(input())
 flag=0
 for i in range(2,n):
