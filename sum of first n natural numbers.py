@@ -1,3 +1,4 @@
+#sum of the first n natural numbers
 n=int(input())
 sum=0 
 for i in range(n+1):
