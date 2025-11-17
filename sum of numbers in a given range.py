@@ -1,3 +1,4 @@
+# sum of the natural numbers in a given range
 print('First method:')
 a=int(input('enter a value:'))
 b=int(input('enter value:'))
