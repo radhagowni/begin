@@ -1,4 +1,4 @@
-num=int(input('enter number:'))
+num=int(input('Enter number:'))
 reverse=0
 while num!=0:
     remainder=num%10
