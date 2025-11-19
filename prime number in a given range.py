@@ -1,3 +1,4 @@
+#package is needed
 import math
 def checkprime(num):
     if num<2:
