@@ -6,4 +6,4 @@ for i in range(n+1):
 print(sum)
 print('Alternate method:')
 sum=int(n*(n+1)/2)
-print(sum)
+print("sum:",sum)
