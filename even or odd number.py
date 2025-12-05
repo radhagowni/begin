@@ -5,5 +5,5 @@ if (num%2==0):
 else:
     print(num,' odd number')
 #alternate method
-print('alternate method output :')
+print('Alternate method output :')
 print('even number' if num%2==0  else "odd number")
