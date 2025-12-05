@@ -1,5 +1,5 @@
 # greatest number among 2 numbers
-num1=int(input('enter number:'))
+num1=int(input('Enter number:'))
 num2=int(input('enter number:'))
 if num1>num2:
     print('Greater number is',num1)
