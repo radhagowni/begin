@@ -7,7 +7,7 @@ for i in range(length):
     digit=int(num%10)
     num=num/10
     sum=sum+digit**length  # alternate method for this line is using pow(digit,length) function
-if sum==n:
+if sum==n: # it checks whether sum is equal to number
     print(n,' is an armstrong number')
 else:
     print(n,' not an armstrong number')
