@@ -1,4 +1,4 @@
 # basic hello world program
 print('Hello world')
-print('welcome...to python')
+print('Welcome...to python')
 print("enjoy with programming")
